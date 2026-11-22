@@ -1,0 +1,9 @@
+# Bun configuration for AI Agents Next.js project
+
+[install]
+# Use exact versions for reproducible builds
+exact = true
+
+[run]
+# Silent mode for cleaner output
+silent = false
